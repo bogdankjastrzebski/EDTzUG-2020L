@@ -1,6 +1,9 @@
 # EDTzUG-2020L
 Oficjalne repo projektowe
 
+# Sprawozdanie
+
+Overleaf: https://www.overleaf.com/project/5e6801cea7d3840001c8df5a
 
 # Literatura
 
