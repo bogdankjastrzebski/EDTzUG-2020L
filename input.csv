@@ -1,0 +1,2597 @@
+verb,verb - main semantic class,verb - second semantic class,verb - third semantic class,verb - tense
+[elipsa],mówienia,,,brak
+[elipsa],epistemiczny,,,past
+[elipsa],mówienia,,,past
+"[e] czuć, że_",epistemiczny,percepcyjny,,past
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,past
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,past
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,past
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,present
+"[e] czuć, że_",epistemiczny,percepcyjny,,past
+"[p] poczuć, że_",percepcyjny,epistemiczny,,past
+"alarmować, że_",mówienia,,,past
+"argumentować, że_",mówienia,,,past
+"argumentować, że_",mówienia,,,past
+"bać się, że_",emotywny,epistemiczny,,present
+"bać się, że_",emotywny,epistemiczny,,past
+"bać się, że_",emotywny,epistemiczny,,past
+"bać się, że_",emotywny,epistemiczny,,present
+"bać się, że_",emotywny,epistemiczny,,present
+"bać się, że_",emotywny,epistemiczny,,present
+"bać się, że_",emotywny,epistemiczny,,present
+"bać się, że_",emotywny,epistemiczny,,present
+"bać się, że_",emotywny,epistemiczny,,past
+"bać się, że_",emotywny,epistemiczny,,present
+"bać się, że_",emotywny,epistemiczny,,present
+"brać pod uwagę, że_",epistemiczny,,,brak
+"brać pod uwagę, że_",epistemiczny,,,brak
+"brać pod uwagę, że_",epistemiczny,,,present
+"brać pod uwagę, że_",epistemiczny,,,brak
+"być dumnym, że_",emotywny,epistemiczny,,future
+"być dumnym, że_",emotywny,epistemiczny,,present
+"być pewnym, że_",epistemiczny,,,future
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,past
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,past
+"być pewnym, że_",epistemiczny,,,past
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,past
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,present
+"być pewnym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,past
+"być przekonanym, że_",epistemiczny,,,past
+"być przekonanym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,past
+"być przekonanym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,past
+"być przekonanym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,present
+"być przekonanym, że_",epistemiczny,,,past
+"być świadomym, że_",epistemiczny,,,past
+"być winnym czegoś, że_",?,,,present
+"być zdania, że_",epistemiczny,,,present
+"być zdania, że_",epistemiczny,,,present
+"być zdania, że_",epistemiczny,,,present
+"być zdania, że_",epistemiczny,,,present
+"być zdania, że_",epistemiczny,,,present
+"być zdania, że_",epistemiczny,,,present
+"być zgodnym, że_",mówienia,epistemiczny,,past
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,present
+"bywać, że_",zdarzeniowy,,,past
+"bywać, że_",zdarzeniowy,,,past
+"bywać, że_",zdarzeniowy,,,past
+"bywać, że_",zdarzeniowy,,,past
+"bywać, że_",zdarzeniowy,,,present
+"chwalić się, że_",mówienia,emotywny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,past
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,past
+"cieszyć się, że_",emotywny,epistemiczny,,past
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"cieszyć się, że_",emotywny,epistemiczny,,present
+"martwić, że_",emotywny,epistemiczny,,present
+"stać, że_",mówienia,,,present
+wskazywać na [coś],wnioskowania,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,past
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],wnioskowania,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+wskazywać na [coś],mówienia,epistemiczny,,present
+"czepiać się, że_",mówienia,wolicjonalny,,past
+"[p] czuć, że_",percepcyjny,,,past
+"czytać, że_",percepcyjny,mówienia,,present
+"czytać, że_",percepcyjny,mówienia,,present
+"dać do zrozumienia, że_",mówienia,epistemiczny,,past
+"dać do zrozumienia, że_",mówienia,epistemiczny,,past
+"dać do zrozumienia, że_",mówienia,epistemiczny,,past
+"dać do zrozumienia, że_",mówienia,epistemiczny,,past
+"dać do zrozumienia, że_",mówienia,epistemiczny,,past
+"dać poznać, że_",czynnościowy,epistemiczny,,past
+"dać słowo honoru, że_",mówienia,,,past
+"dać znać, że_",mówienia,,,present
+"decydować, że_",przyczynowy,epistemiczny,,present
+"decydować, że_",przyczynowy,epistemiczny,,past
+"decydować, że_",przyczynowy,epistemiczny,,present
+"deklarować, że_",mówienia,,,present
+"deklarować, że_",mówienia,,,present
+"deklarować, że_",mówienia,,,present
+"dochodzić do tego, że_",zdarzeniowy,,,present
+"dodać, że_",mówienia,,,past
+"dodać, że_",mówienia,,,past
+"dodać, że_",mówienia,,,past
+"dodać, że_",mówienia,,,past
+"dodać, że_",mówienia,,,future
+"dodać, że_",mówienia,,,present
+"dodać, że_",mówienia,,,brak
+"dodać, że_",mówienia,,,brak
+"dodać, że_",mówienia,,,brak
+"dodać, że_",mówienia,,,brak
+"dodać, że_",mówienia,,,present
+"dodać, że_",mówienia,,,present
+"dodać, że_",mówienia,,,present
+"dodać, że_",mówienia,,,present
+"dodawać, że_",mówienia,,,present
+"dodawać, że_",mówienia,,,present
+"dodawać, że_",mówienia,,,present
+"dodawać, że_",mówienia,,,present
+"dodawać, że_",mówienia,,,present
+"dodawać, że_",mówienia,,,present
+"dodawać, że_",mówienia,,,past
+"dodawać, że_",mówienia,,,present
+"dodawać, że_",mówienia,,,present
+"dojść do czegoś, że_",zdarzeniowy,,,past
+"domyślać się, że_",epistemiczny,,,present
+"domyślać się, że_",epistemiczny,,,past
+"domyślać się, że_",epistemiczny,,,present
+"domyślać się, że_",epistemiczny,,,present
+"domyślać się, że_",epistemiczny,,,present
+"domyślać się, że_",epistemiczny,,,present
+"domyślić się, że_",epistemiczny,,,present
+"domyślić się, że_",epistemiczny,,,past
+"domyślić się, że_",epistemiczny,,,past
+"domyślić się, że_",epistemiczny,,,past
+"domyślić się, że_",epistemiczny,,,past
+"domyślić się, że_",epistemiczny,,,present
+"dopowiedzieć, że_",mówienia,,,future
+"doprowadzić do, że_",przyczynowy,,,future
+"doprowadzić do, że_",przyczynowy,,,future
+"dopuścić do czegoś, że_",przyczynowy,,,past
+"[p] dostrzec, że_",percepcyjny,epistemiczny,,past
+"[e] dostrzegać, że_",epistemiczny,percepcyjny,,present
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,future
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,past
+"dowiedzieć się, że_",epistemiczny,,,future
+"dowieść, że_",dowodzenia,wnioskowania,mówienia,past
+"dowieść, że_",dowodzenia,wnioskowania,mówienia,past
+"dowieść, że_",dowodzenia,wnioskowania,mówienia,past
+"dowieść, że_",dowodzenia,wnioskowania,mówienia,past
+"dowieść, że_",dowodzenia,wnioskowania,mówienia,past
+"dowieść, że_",dowodzenia,wnioskowania,mówienia,past
+"dowodzić, że_",dowodzenia,wnioskowania,mówienia,present
+"dowodzić, że_",dowodzenia,wnioskowania,mówienia,past
+"dowodzić, że_",dowodzenia,wnioskowania,mówienia,present
+"dziać się, że_",zdarzeniowy,,,present
+"dziękować, że_",mówienia,wolicjonalny,,present
+"dziękować, że_",mówienia,wolicjonalny,,present
+"dziękować, że_",mówienia,wolicjonalny,,present
+"dziękować, że_",mówienia,wolicjonalny,,present
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,brak
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,past
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,present
+"dziwić się, że_",epistemiczny,,,present
+"głosić, że_",mówienia,,,future
+"głosić, że_",mówienia,,,past
+"głosić, że_",mówienia,,,present
+"głosić, że_",mówienia,,,past
+"grozić, że_",mówienia,wolicjonalny,,present
+"grzmieć, że_",mówienia,emotywny,,past
+"grzmieć, że_",mówienia,emotywny,,past
+"gwarantować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,past
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,past
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"informować, że_",mówienia,,,present
+"irytować, że_",emotywny,epistemiczny,,present
+"jęczeć, że_",mówienia,emotywny,,present
+"krakać, że_",mówienia,,,present
+"lamentować, że_",mówienia,emotywny,,present
+"liczyć się z czymś, że_",epistemiczny,,,present
+"liczyć się z czymś, że_",epistemiczny,,,present
+"liczyć się z czymś, że_",epistemiczny,,,brak
+"liczyć, że_",epistemiczny,nie-wiedzowy,,past
+"liczyć, że_",epistemiczny,nie-wiedzowy,,present
+"liczyć, że_",epistemiczny,nie-wiedzowy,,present
+"liczyć, że_",epistemiczny,nie-wiedzowy,,past
+"liczyć, że_",epistemiczny,,,past
+"liczyć, że_",epistemiczny,,,present
+"liczyć, że_",epistemiczny,,,past
+"liczyć, że_",epistemiczny,,,present
+"liczyć, że_",epistemiczny,,,present
+"liczyć, że_",epistemiczny,,,present
+"liczyć, że_",epistemiczny,,,present
+"liczyć, że_",epistemiczny,,,present
+"liczyć, że_",epistemiczny,,,present
+"liczyć, że_",epistemiczny,,,past
+"liczyć, że_",epistemiczny,,,present
+"liczyć, że_",epistemiczny,,,present
+"łapać się na czymś, że_",epistemiczny,,,past
+"łudzić się, że_",epistemiczny,wolicjonalny,,brak
+"łudzić się, że_",epistemiczny,wolicjonalny,,past
+"łudzić się, że_",epistemiczny,wolicjonalny,,past
+"łudzić się, że_",epistemiczny,wolicjonalny,,past
+"martwić się, że_",emotywny,epistemiczny,,past
+"martwić się, że_",emotywny,epistemiczny,,present
+"martwić się, że_",emotywny,epistemiczny,,present
+"martwić się, że_",emotywny,epistemiczny,,past
+"meldować, że_",mówienia,,,present
+"meldować, że_",mówienia,,,present
+"miarkować, że_",epistemiczny,,,past
+"miarkować, że_",epistemiczny,,,past
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,past
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,past
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,brak
+"mieć nadzieję, że_",epistemiczny,wolicjonalny,,present
+"mieć odczucie, że_",epistemiczny,,,present
+"mieć pewność, że_",epistemiczny,,,present
+"mieć pewność, że_",epistemiczny,,,present
+"mieć pewność, że_",epistemiczny,,,brak
+"mieć poczucie, że_",epistemiczny,,,present
+"mieć poczucie, że_",epistemiczny,,,present
+"mieć radość, że_",emotywny,epistemiczny,,past
+"mieć świadomość, że_",epistemiczny,,,present
+"mieć świadomość, że_",epistemiczny,,,present
+"mieć świadomość, że_",epistemiczny,,,present
+"mieć świadomość, że_",epistemiczny,,,present
+"mieć świadomość, że_",epistemiczny,,,present
+"mieć świadomość, że_",epistemiczny,,,past
+"mieć świadomość, że_",epistemiczny,,,present
+"mieć świadomość, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,past
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,past
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,past
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,past
+"mieć wrażenie, że_",epistemiczny,,,past
+"mieć wrażenie, że_",epistemiczny,,,present
+"mieć wrażenie, że_",epistemiczny,,,present
+"mitygować, że_",mówienia,,,past
+"mniemać, że_",epistemiczny,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,brak
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,past
+"mówić, że_",mówienia,,,present
+"mówić, że_",mówienia,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,present
+"myśleć, że_",epistemiczny,,,past
+"myśleć, że_",epistemiczny,,,present
+"nacieszyć się, że_",emotywny,epistemiczny,,present
+"nadmienić, że_",mówienia,,,past
+"nadmienić, że_",mówienia,,,present
+"naigrawać się, że_",mówienia,emotywny,,present
+"nakrzyczeć, że_",mówienia,emotywny,,future
+"napisać, że_",mówienia,,,present
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,past
+"napisać, że_",mówienia,,,brak
+"napisać, że_",mówienia,,,brak
+"napomknąć, że_",mówienia,,,past
+"narzekać, że_",mówienia,emotywny,,past
+"narzekać, że_",mówienia,emotywny,,past
+"narzekać, że_",mówienia,emotywny,,past
+"narzekać, że_",mówienia,emotywny,,past
+"narzekać, że_",mówienia,emotywny,,past
+"nic dziwnego, że_",emotywny,epistemiczny,,brak
+"nie da się ukryć, że_",?,,,present
+"nie da się ukryć, że_",?,,,present
+"nie kryć, że_",?,,,present
+"nie kryć, że_",?,,,present
+"nie kryć, że_",?,,,past
+"nie kryć, że_",?,,,past
+"nie mieć wątpliwości, że_",epistemiczny,,,past
+"nie mieć wątpliwości, że_",epistemiczny,,,present
+"nie mieć wątpliwości, że_",epistemiczny,,,present
+"nie mieć wątpliwości, że_",epistemiczny,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,past
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,past
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,present
+"nie ukrywać, że_",?,,,past
+"nie ukrywać, że_",?,,,past
+"nie ulega wątpliwości, że_",epistemiczny,,,present
+"nie ulega wątpliwości, że_",epistemiczny,,,present
+"nie ulega wątpliwości, że_",epistemiczny,,,present
+"nie ulega wątpliwości, że_",epistemiczny,,,present
+"niepokoić się, że_",emotywny,epistemiczny,,past
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,past
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,present
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,past
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,past
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,present
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,present
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,present
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,present
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,present
+"obawiać się, że_",emotywny,epistemiczny,wolicjonalny,future
+"oberwać za coś, że_",przyczynowy,,,past
+"obić się o uszy, że_",percepcyjny,mówienia,,past
+"obić się o uszy, że_",percepcyjny,mówienia,,past
+"obiecać, że_",mówienia,,,past
+"obiecać, że_",mówienia,,,past
+"obiecać, że_",mówienia,,,past
+"obiecać, że_",mówienia,,,past
+"obiecać, że_",mówienia,,,past
+"obiecać, że_",mówienia,,,past
+"obiecać, że_",mówienia,,,past
+"obiecywać, że_",mówienia,performatyw,,present
+"obiecywać, że_",mówienia,,,past
+"obiecywać, że_",mówienia,,,past
+"obiecywać, że_",mówienia,,,past
+"obiecywać, że_",mówienia,,,present
+"obiecywać, że_",mówienia,,,present
+"obiecywać, że_",mówienia,,,present
+"obiecywać, że_",mówienia,,,present
+"obiecywać, że_",mówienia,,,present
+"obliczać, że_",liczenia,epistemiczny,,present
+"obliczyć, że_",liczenia,epistemiczny,,present
+"obliczyć, że_",liczenia,epistemiczny,,past
+"obrazić się, że_",emotywny,epistemiczny,,past
+"[p] obserwować, że_",percepcyjny,,,present
+"oceniać, że_",epistemiczny,wnioskowania,epistemiczny,present
+"oceniać, że_",epistemiczny,wnioskowania,epistemiczny,present
+"ocenić, że_",mówienia,epistemiczny,,past
+"ocenić, że_",mówienia,wnioskowania,epistemiczny,past
+"ocenić, że_",mówienia,wnioskowania,epistemiczny,past
+"oczekiwać, że_",epistemiczny,wolicjonalny,,present
+"oczekiwać, że_",epistemiczny,wolicjonalny,,past
+"oczekiwać, że_",epistemiczny,wolicjonalny,,present
+"oczekiwać, że_",epistemiczny,wolicjonalny,,present
+"oczekiwać, że_",epistemiczny,wolicjonalny,,past
+"odczuwać, że_",epistemiczny,,,past
+"odczuwać, że_",epistemiczny,,,past
+"odeprzeć, że_",mówienia,,,past
+"odeprzeć, że_",mówienia,,,past
+"odkryć, że_",odkrycia,,,past
+"odkryć, że_",odkrycia,,,past
+"odkryć, że_",odkrycia,,,past
+"odkryć, że_",odkrycia,,,past
+"odkryć, że_",odkrycia,,,past
+"odkrywać, że_",odkrycia,,,present
+"odnieść wrażenie, że_",epistemiczny,,,past
+"odnieść wrażenie, że_",epistemiczny,,,brak
+"odnosić wrażenie, że_",epistemiczny,,,present
+"odnosić wrażenie, że_",epistemiczny,,,present
+"odnosić wrażenie, że_",epistemiczny,,,present
+"odnosić wrażenie, że_",epistemiczny,,,present
+"odnotować, że_",epistemiczny,,,present
+"odpisać, że_",mówienia,,,past
+"odpowiadać, że_",mówienia,,,past
+"odpowiadać, że_",mówienia,,,past
+"odpowiedzieć, że_",mówienia,,,present
+"odpowiedzieć, że_",mówienia,,,past
+"odpowiedzieć, że_",mówienia,,,past
+"odpowiedzieć, że_",mówienia,,,past
+"ogłosić, że_",mówienia,,,past
+"ogłosić, że_",mówienia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,present
+"okazać się, że_",odkrycia,,,present
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,future
+"okazać się, że_",odkrycia,,,future
+"okazać się, że_",odkrycia,,,future
+"okazać się, że_",odkrycia,,,future
+"okazać się, że_",odkrycia,,,brak
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,past
+"okazać się, że_",odkrycia,,,future
+"okazać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,past
+"okazywać się, że_",odkrycia,,,past
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"okazywać się, że_",odkrycia,,,present
+"określać, że_",mówienia,,,present
+"olśnić, że_",epistemiczny,,,past
+"opierniczyć, że_",mówienia,emotywny,,past
+"opowiadać, że_",mówienia,,,present
+"opowiadać, że_",mówienia,,,past
+"opowiadać, że_",mówienia,,,past
+"opowiadać, że_",mówienia,,,past
+"opowiadać, że_",mówienia,,,present
+"opowiadać, że_",mówienia,,,present
+"opowiadać, że_",mówienia,,,past
+"opowiadać, że_",mówienia,,,present
+"opowiadać, że_",mówienia,,,brak
+"orientować się, że_",epistemiczny,,,present
+"orientować się, że_",epistemiczny,,,past
+"orzec, że_",mówienia,,,brak
+"orzec, że_",mówienia,,,past
+"ostrzec, że_",mówienia,,,present
+"ostrzec, że_",mówienia,,,brak
+"ostrzegać, że_",mówienia,emotywny,,past
+"ostrzegać, że_",mówienia,emotywny,,past
+"ostrzegać, że_",mówienia,emotywny,,present
+"ostrzegać, że_",mówienia,emotywny,,present
+"oszacować, że_",liczenia,epistemiczny,,past
+"oświadczać, że_",mówienia,,,present
+"oświadczyć, że_",mówienia,,,future
+"oświadczyć, że_",mówienia,,,past
+"oświadczyć, że_",mówienia,,,past
+"oświadczyć, że_",mówienia,,,past
+"oświadczyć, że_",mówienia,,,past
+"oświadczyć, że_",mówienia,,,past
+"oświadczyć, że_",mówienia,,,present
+"oznajmić, że_",mówienia,,,past
+"oznajmić, że_",mówienia,,,past
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,past
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,past
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,brak
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"pamiętać, że_",pamięciowy,epistemiczny,,present
+"patrzeć, że_",percepcyjny,,,present
+"pisać, że_",mówienia,,,present
+"pisać, że_",mówienia,,,present
+"pisać, że_",mówienia,,,present
+"pisać, że_",mówienia,,,past
+"pisać, że_",mówienia,,,past
+"pisać, że_",mówienia,,,past
+"pisać, że_",mówienia,,,present
+"pisać, że_",mówienia,,,past
+"pisać, że_",mówienia,,,past
+"planować, że_",epistemiczny,,,past
+"planować, że_",epistemiczny,,,present
+"pochwalić się, że_",mówienia,emotywny,,past
+"pochwalić się, że_",mówienia,emotywny,,past
+"pocieszać się, że_",emotywny,epistemiczny,,present
+"[e] poczuć, że_",epistemiczny,,,past
+"pocieszyć się, że_",emotywny,epistemiczny,,brak
+"podać, że_",mówienia,,,past
+"podawać, że_",mówienia,,,present
+"podawać, że_",mówienia,,,present
+"podejrzewać, że_",epistemiczny,,,present
+"podejrzewać, że_",epistemiczny,,,present
+"podejrzewać, że_",epistemiczny,,,present
+"podejrzewać, że_",epistemiczny,,,present
+"podejrzewać, że_",epistemiczny,,,past
+"podejrzewać, że_",epistemiczny,,,present
+"podejrzewać, że_",epistemiczny,,,present
+"podejrzewać, że_",epistemiczny,,,past
+"podejrzewać, że_",epistemiczny,,,brak
+"podkreślać, że_",mówienia,,,past
+"podkreślać, że_",mówienia,,,present
+"podkreślać, że_",mówienia,,,present
+"podkreślać, że_",mówienia,,,present
+"podkreślać, że_",mówienia,,,present
+"podkreślać, że_",mówienia,,,present
+"podkreślać, że_",mówienia,,,past
+"podkreślać, że_",mówienia,,,present
+"podkreślać, że_",mówienia,,,past
+"podkreślać, że_",mówienia,,,past
+"podkreślić, że_",mówienia,,,brak
+"podkreślić, że_",mówienia,,,past
+"podkreślić, że_",mówienia,,,past
+"podkreślić, że_",mówienia,,,past
+"podkreślić, że_",mówienia,,,past
+"podkreślić, że_",mówienia,,,past
+"podkreślić, że_",mówienia,,,present
+"podkreślić, że_",mówienia,,,present
+"podkreślić, że_",mówienia,,,brak
+"podkreślić, że_",mówienia,,,present
+"podkreślić, że_",mówienia,,,past
+"podkreślić, że_",mówienia,,,past
+"podkreślić, że_",mówienia,,,brak
+"podnieść, że_",mówienia,,,past
+"podpisywać, że_",mówienia,,,past
+"podpowiadać, że_",mówienia,,,present
+"podpowiadać, że_",mówienia,,,present
+"podziwiać za coś, że_",emotywny,epistemiczny,,present
+"poinformować, że_",mówienia,,,present
+"poinformować, że_",mówienia,,,past
+"poinformować, że_",mówienia,,,past
+"poinformować, że_",mówienia,,,past
+"poinformować, że_",mówienia,,,past
+"poinformować, że_",mówienia,,,past
+"poinformować, że_",mówienia,,,brak
+"poinformować, że_",mówienia,,,past
+"poinformować, że_",mówienia,,,brak
+"pojmować, że_",epistemiczny,,,present
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,present
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,brak
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,future
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,brak
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,past
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,present
+"pokazać, że_",mówienia,wnioskowania,epistemiczny,brak
+"pokazywać, że_",mówienia,wnioskowania,epistemiczny,present
+"pokazywać, że_",mówienia,wnioskowania,epistemiczny,present
+"pokazywać, że_",mówienia,wnioskowania,epistemiczny,present
+"pokazywać, że_",mówienia,wnioskowania,epistemiczny,present
+"pokazywać, że_",mówienia,wnioskowania,epistemiczny,future
+"policzyć, że_",liczenia,epistemiczny,,past
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,brak
+"pomyśleć, że_",epistemiczny,,,brak
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,brak
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,past
+"pomyśleć, że_",epistemiczny,,,brak
+"pomyśleć, że_",epistemiczny,,,brak
+"poradzić na coś, że_",przyczynowy,,,present
+"poradzić, że_",przyczynowy,,,future
+"postanowić, że_",przyczynowy,epistemiczny,,past
+"postanowić, że_",przyczynowy,epistemiczny,,brak
+"postanowić, że_",przyczynowy,epistemiczny,,past
+"postanowić, że_",przyczynowy,epistemiczny,,past
+"postanowić, że_",przyczynowy,epistemiczny,,past
+"potwierdzać, że_",mówienia,,,present
+"potwierdzać, że_",mówienia,,,present
+"potwierdzać, że_",mówienia,,,present
+"potwierdzić, że_",mówienia,,,past
+"powiadać, że_",mówienia,,,past
+"powiadać, że_",mówienia,,,present
+"powiadać, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,future
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,brak
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,past
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,present
+"powiedzieć, że_",mówienia,,,present
+"powodować, że_",przyczynowy,,,present
+"powodować, że_",przyczynowy,,,past
+"powodować, że_",przyczynowy,,,present
+"powodować, że_",przyczynowy,,,present
+"powodować, że_",przyczynowy,,,present
+"powodować, że_",przyczynowy,,,present
+"powodować, że_",przyczynowy,,,present
+"powtarzać, że_",mówienia,,,present
+"powtarzać, że_",mówienia,,,present
+"poznać, że_",epistemiczny,,,future
+"poznać, że_",epistemiczny,,,past
+"poznać, że_",epistemiczny,,,future
+"pozwolić, że_",przyczynowy,epistemiczny,,brak
+"pozwolić, że_",przyczynowy,epistemiczny,,future
+"protestować, że_",przyczynowy,wolicjonalny,,past
+"prowadzić do czegoś, że_",przyczynowy,,,future
+"przeczuwać, że_",epistemiczny,,,present
+"przeczytać, że_",percepcyjny,mówienia,,past
+"przeczytać, że_",percepcyjny,,,past
+"przeczytać, że_",percepcyjny,,,past
+"przekazywać, że_",mówienia,,,present
+"przekonać, że_",epistemiczny,,,past
+"przekonać, że_",epistemiczny,,,past
+"przekonać, że_",epistemiczny,,,future
+"przekonać, że_",epistemiczny,,,future
+"przekonać, że_",epistemiczny,,,past
+"przekonać, że_",epistemiczny,,,past
+"przekonać się, że_",epistemiczny,,,past
+"przekonać się, że_",epistemiczny,,,present
+"przekonać się, że_",epistemiczny,,,future
+"przekonać się, że_",epistemiczny,,,past
+"przekonać się, że_",epistemiczny,,,future
+"przekonać się, że_",epistemiczny,,,future
+"przekonywać się, że_",epistemiczny,,,present
+"przekonywać, że [zwrotny]_",mówienia,epistemiczny,,past
+"przekonywać, że [zwrotny]_",epistemiczny,,,present
+"przemawiać, że_",mówienia,,,past
+"przemówić, że_",mówienia,,,future
+"przeoczyć, że_",percepcyjny,epistemiczny,,past
+"przepowiadać, że_",mówienia,wnioskowania,epistemiczny,past
+"przepowiadać, że_",mówienia,wnioskowania,epistemiczny,present
+"przepraszać, że_",mówienia,,,present
+"przepraszać, że_",mówienia,,,present
+"przepraszać, że_",mówienia,,,present
+"przeprosić, że_",mówienia,,,past
+"przeprosić, że_",mówienia,,,past
+"przerazić się, że_",emotywny,epistemiczny,,past
+"przeważyć, że_",przyczynowy,,,past
+"przewidywać, że_",epistemiczny,,,present
+"przewidywać, że_",epistemiczny,,,present
+"przewidywać, że_",epistemiczny,,,past
+"przewidywać, że_",epistemiczny,,,present
+"przewidywać, że_",epistemiczny,,,present
+"przewidzieć, że_",epistemiczny,,,past
+"przewidzieć, że_",epistemiczny,,,past
+"przewidzieć, że_",epistemiczny,,,past
+"przewidzieć, że_",epistemiczny,,,past
+"przewidzieć, że_",epistemiczny,,,past
+"przyjąć, że_",epistemiczny,,,past
+"przyjąć, że_",epistemiczny,,,brak
+"przyjąć, że_",epistemiczny,,,brak
+"przyjmować, że_",epistemiczny,,,present
+"przyjmować, że_",epistemiczny,,,present
+"przyjmować, że_",epistemiczny,,,brak
+"przyjmować, że_",epistemiczny,,,present
+"przyjmować, że_",epistemiczny,,,present
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,future
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,present
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,present
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,past
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,present
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,past
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,past
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,future
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,past
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,past
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,past
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,present
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypomnieć komuś, że_",mówienia,pamięciowy,epistemiczny,brak
+"przypominać sobie, że_",pamięciowy,epistemiczny,,past
+"przypominać sobie, że_",pamięciowy,epistemiczny,,past
+"przypominać sobie, że_",pamięciowy,epistemiczny,,present
+"przypominać sobie, że_",pamięciowy,epistemiczny,,present
+"przypomnieć sobie, że_",pamięciowy,epistemiczny,,past
+"przypomnieć sobie, że_",pamięciowy,epistemiczny,,future
+"przypomnieć sobie, że_",pamięciowy,epistemiczny,,past
+"przypuszczać, że_",epistemiczny,,,present
+"przypuszczać, że_",epistemiczny,,,past
+"przypuszczać, że_",epistemiczny,,,past
+"przypuszczać, że_",epistemiczny,,,past
+"przypuszczać, że_",epistemiczny,,,present
+"przypuszczać, że_",epistemiczny,,,present
+"przypuszczać, że_",epistemiczny,,,present
+"przypuszczać, że_",epistemiczny,,,brak
+"przypuszczać, że_",epistemiczny,,,present
+"przypuszczać, że_",epistemiczny,,,present
+"przyrzekać, że_",mówienia,,,present
+"przyrzekać, że_",mówienia,,,present
+"przysiąc, że_",mówienia,,,past
+"przysiąc, że_",mówienia,,,past
+"przysiąc, że_",mówienia,,,present
+"przysięgać, że_",mówienia,,,present
+"przyznać się, że_",mówienia,,,past
+"przyznać się, że_",mówienia,,,future
+"przyznać się, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,brak
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,present
+"przyznać, że_",mówienia,,,present
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,future
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,future
+"przyznać, że_",mówienia,,,present
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,future
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,future
+"przyznać, że_",mówienia,,,future
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,present
+"przyznać, że_",mówienia,,,past
+"przyznać, że_",mówienia,,,brak
+"przyznać, że_",mówienia,,,present
+"przyznać, że_",mówienia,,,brak
+"przyznać, że_",mówienia,,,present
+"przyznać, że_",mówienia,,,future
+"przyznawać się, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,past
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,past
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"przyznawać, że_",mówienia,,,present
+"radzić, że_",mówienia,,,present
+"radzić, że_",mówienia,,,present
+"radzić, że_",mówienia,,,present
+"rechotać, że_",mówienia,emotywny,epistemiczny,present
+"reklamować, że_",mówienia,,,past
+"rozczulić, że_",emotywny,epistemiczny,,past
+"rozmawiać, że_",mówienia,,,past
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"rozumieć, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,past
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,brak
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,past
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"sądzić, że_",epistemiczny,,,present
+"skarcić, że_",mówienia,,,brak
+"skarżyć się, że_",mówienia,emotywny,,present
+"skarżyć się, że_",mówienia,emotywny,,present
+"skłamać, że_",mówienia,,,past
+"skrzyczeć, że_",mówienia,emotywny,,past
+"[p] słychać, że_[przyroda]",percepcyjny,,,brak
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,present
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,present
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,present
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,present
+"słyszeć, że_[mowa]",percepcyjny,mówienia,,past
+"spodziewać się, że_",epistemiczny,,,past
+"spodziewać się, że_",epistemiczny,,,past
+"spodziewać się, że_",epistemiczny,,,past
+"spodziewać się, że_",epistemiczny,,,brak
+"spodziewać się, że_",epistemiczny,,,past
+"spodziewać się, że_",epistemiczny,,,past
+"spodziewać się, że_",epistemiczny,,,present
+"spodziewać się, że_",epistemiczny,,,past
+"spodziewać się, że_",epistemiczny,,,present
+"[e] spostrzec, że_",epistemiczny,percepcyjny,,past
+"spowodować, że_",przyczynowy,,,present
+"spowodować, że_",przyczynowy,,,past
+"spowodować, że_",przyczynowy,,,past
+"spowodować, że_",przyczynowy,,,past
+"spowodować, że_",przyczynowy,,,past
+"spowodować, że_",przyczynowy,,,past
+"spowodować, że_",przyczynowy,,,future
+"spowodować, że_",przyczynowy,,,future
+"sprawiać wrażenie, że_",przyczynowy,epistemiczny,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,past
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,past
+"sprawiać, że_",przyczynowy,zdarzeniowy,,past
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,present
+"sprawiać, że_",przyczynowy,zdarzeniowy,,past
+"sprawiać, że_",przyczynowy,zdarzeniowy,,past
+"sprawiać, że_",przyczynowy,zdarzeniowy,,past
+"sprawiać, że_",przyczynowy,zdarzeniowy,,past
+"sprawić, że_",przyczynowy,zdarzeniowy,,past
+"sprawić, że_",przyczynowy,zdarzeniowy,,past
+"sprawić, że_",przyczynowy,zdarzeniowy,,past
+"sprawić, że_",przyczynowy,zdarzeniowy,,past
+"sprawić, że_",przyczynowy,zdarzeniowy,,past
+"sprawić, że_",przyczynowy,zdarzeniowy,,present
+"sprawić, że_",przyczynowy,zdarzeniowy,,present
+"sprawić, że_",przyczynowy,zdarzeniowy,,present
+"stać się, że_",zdarzeniowy,,,past
+"stać się, że_",zdarzeniowy,,,past
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,past
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzać, że_",mówienia,,,present
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,brak
+"stwierdzić, że_",mówienia,,,brak
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,present
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,present
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,brak
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,past
+"stwierdzić, że_",mówienia,,,present
+"stwierdzić, że_",mówienia,,,present
+"stwierdzić, że_",mówienia,,,present
+"stwierdzić, że_",mówienia,,,present
+"stwierdzić, że_",mówienia,,,present
+"stwierdzić, że_",mówienia,,,future
+"sugerować, że_",mówienia,,,brak
+"sugerować, że_",mówienia,,,present
+"sugerować, że_",mówienia,,,brak
+"sugerować, że_",mówienia,,,past
+"sugerować, że_",mówienia,,,past
+"sugerować, że_",mówienia,,,present
+"sugerować, że_",mówienia,,,present
+"sugerować, że_",mówienia,,,past
+"sugerować, że_",mówienia,,,brak
+"sygnalizować, że_",mówienia,,,present
+"sygnalizować, że_",mówienia,,,present
+"szacować, że_",liczenia,epistemiczny,,present
+"szacować, że_",liczenia,epistemiczny,,past
+"szacować, że_",liczenia,epistemiczny,,present
+"szacować, że_",liczenia,epistemiczny,,present
+"szacować, że_",liczenia,epistemiczny,,present
+"szepnąć, że_",mówienia,,,brak
+"szeptać, że_",mówienia,,,present
+"śmiać się, że_",mówienia,emotywny,epistemiczny,present
+"śmiać się, że_",mówienia,emotywny,epistemiczny,present
+"śmiać się, że_",mówienia,emotywny,epistemiczny,past
+"śmiać się, że_",mówienia,emotywny,epistemiczny,present
+"śmiać się, że_",mówienia,emotywny,epistemiczny,present
+"śnić się, że_",epistemiczny,,,past
+"śnić się, że_",epistemiczny,,,past
+"śnić się, że_",epistemiczny,,,past
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,present
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,past
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,past
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,present
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,present
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,present
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,present
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,present
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,present
+"świadczyć, że_",dowodzenia,wnioskowania,epistemiczny,present
+"tłuc, że_",mówienia,,,past
+"tłumaczyć się, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,present
+"tłumaczyć, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,present
+"tłumaczyć, że_",mówienia,,,present
+"tłumaczyć, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,present
+"tłumaczyć, że_",mówienia,,,present
+"tłumaczyć, że_",mówienia,,,present
+"tłumaczyć, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,past
+"tłumaczyć, że_",mówienia,,,past
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,past
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,past
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,past
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,past
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,present
+"twierdzić, że_",mówienia,,,past
+"twierdzić, że_",mówienia,,,past
+"ubolewać, że_",emotywny,mówienia,epistemiczny,past
+"uczyć, że_",mówienia,,,present
+"uczyć, że_",mówienia,,,past
+"uczyć, że_",mówienia,,,present
+"uczyć, że_",mówienia,,,present
+"uczyć, że_",mówienia,,,past
+"udać, że_",?,,,brak
+"udać, że_",?,,,past
+"udawać, że_",?,,,past
+"udawać, że_",?,,,past
+"udawać, że_",?,,,present
+"udawać, że_",?,,,present
+"udawać, że_",?,,,past
+"udawać, że_",?,,,present
+"udawać, że_",?,,,future
+"udawać, że_",?,,,present
+"udawać, że_",?,,,future
+"udawać, że_",?,,,present
+"udawać, że_",?,,,present
+"udawać, że_",?,,,past
+"udawać, że_",?,,,past
+"udawać, że_",?,,,past
+"udawać, że_",?,,,present
+"udawać, że_",?,,,present
+"udawać, że_",?,,,present
+"udokumentować, że_",dowodzenia,mówienia,,past
+"udowadniać, że_",dowodzenia,mówienia,mówienia,present
+"udowadniać, że_",dowodzenia,wnioskowania,mówienia,past
+"udowadniać, że_",dowodzenia,wnioskowania,mówienia,past
+"udowadniać, że_",dowodzenia,wnioskowania,mówienia,present
+"udowodnić, że_",dowodzenia,wnioskowania,mówienia,past
+"udowodnić, że_",dowodzenia,wnioskowania,mówienia,past
+"udowodnić, że_",dowodzenia,wnioskowania,mówienia,past
+"udowodnić, że_",dowodzenia,wnioskowania,mówienia,past
+"udowodnić, że_",dowodzenia,wnioskowania,mówienia,past
+"udowodnić, że_",dowodzenia,wnioskowania,mówienia,past
+"udowodnić, że_",dowodzenia,wnioskowania,mówienia,future
+"udowodnić, że_",dowodzenia,wnioskowania,mówienia,brak
+"ukazać, że_",mówienia,wnioskowania,epistemiczny,present
+"umówić się, że_",mówienia,,,past
+"unaocznić, że_",mówienia,epistemiczny,percepcyjny,past
+"upewnić się, że_",epistemiczny,,,brak
+"upewnić się, że_",epistemiczny,,,brak
+"upewnić się, że_",epistemiczny,,,brak
+"upewnić się, że_",epistemiczny,,,brak
+"upewnić się, że_",epistemiczny,,,brak
+"upewnić się, że_",epistemiczny,,,brak
+"upewnić się, że_",epistemiczny,,,past
+"upierać się, że_",mówienia,,,past
+"uprzedzić, że_",mówienia,,,past
+"uprzedzić, że_",mówienia,mówienia,,present
+"uprzytomnić sobie, że_",epistemiczny,,,future
+"uprzytomnić sobie, że_",epistemiczny,,,future
+"uroić sobie, że_",epistemiczny,wolicjonalny,,past
+"usłyszeć, że_[mowa] ",percepcyjny,mówienia,,future
+"usłyszeć, że_[mowa] ",percepcyjny,mówienia,,past
+"usłyszeć, że_[mowa] ",percepcyjny,mówienia,,present
+"usłyszeć, że_[mowa] ",percepcyjny,mówienia,,present
+"uspokajać, że_",mówienia,emotywny,,present
+"usprawiedliwiać się, że_",mówienia,,,past
+"ustalać, że_",epistemiczny,,,present
+"ustalić, że_",mówienia,przyczynowy,,past
+"ustalić, że_",mówienia,przyczynowy,,brak
+"uświadamiać sobie, że_",epistemiczny,,,present
+"uświadomić sobie, że_",epistemiczny,,,future
+"uświadomić sobie, że_",epistemiczny,,,future
+"uświadomić sobie, że_",epistemiczny,,,past
+"utrzymywać, że_",mówienia,,,present
+"utrzymywać, że_",mówienia,,,present
+"utrzymywać, że_",mówienia,,,past
+"utrzymywać, że_",mówienia,,,past
+"uważać za, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,brak
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,past
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,brak
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,brak
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,present
+"uważać, że_",epistemiczny,,,future
+"uwierzyć, że_",epistemiczny,,,past
+"uwierzyć, że_",epistemiczny,,,past
+"uwierzyć, że_",epistemiczny,,,present
+"uwierzyć, że_",epistemiczny,,,past
+"uwierzyć, że_",epistemiczny,,,brak
+"uwzględnić, że_",epistemiczny,,,future
+"uzasadniać, że_",mówienia,,,brak
+"uzmysławiać sobie, że_",epistemiczny,,,past
+"uznać coś za coś, że_",epistemiczny,,,present
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,future
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,brak
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,past
+"uznać, że_",epistemiczny,,,future
+"uznać, że_",epistemiczny,,,future
+"uznać, że_",epistemiczny,,,brak
+"uznawać, że_",epistemiczny,,,present
+"uznawać, że_",epistemiczny,,,present
+"uznawać, że_",epistemiczny,,,present
+"wątpić, że_",epistemiczny,wolitywny,,present
+"wątpić, że_",epistemiczny,wolitywny,,present
+"wciskać, że_",mówienia,,,present
+"wciskać, że_",mówienia,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,past
+"wiadomo, że_",epistemiczny,,,past
+"wiadomo, że_",epistemiczny,,,past
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,past
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,past
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,present
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,brak
+"wiadomo, że_",epistemiczny,,,past
+"wiadomo, że_",epistemiczny,,,present
+"[e] widać, że",epistemiczny,percepcyjny,,brak
+"[p] widzieć, że_",percepcyjny,epistemiczny,,past
+"[p] widzieć, że_",percepcyjny,epistemiczny,,present
+"[p] widzieć, że_",percepcyjny,epistemiczny,,present
+"[p] widzieć, że_",percepcyjny,epistemiczny,,past
+"[p] widzieć, że_",percepcyjny,epistemiczny,,present
+"[p] widzieć, że_",percepcyjny,epistemiczny,,past
+"[p] widzieć, że_",percepcyjny,epistemiczny,,present
+"[p] widzieć, że_",percepcyjny,epistemiczny,,present
+"wiedzieć, że_",epistemiczny,,,brak
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,brak
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,future
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,past
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,present
+"wiedzieć, że_",epistemiczny,,,future
+"wierzyć, że_",epistemiczny,,,past
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,past
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,past
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,past
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,present
+"wierzyć, że_",epistemiczny,,,brak
+"wmawiać, że_",mówienia,,,present
+"wmawiać, że_",mówienia,,,future
+"wmawiać, że_",mówienia,,,present
+"wmówić, że_",mówienia,,,brak
+"wmówić, że_",mówienia,,,present
+"wnioskować, że_",epistemiczny,,,present
+"wnosić z czegoś, że_",epistemiczny,,,present
+"wnosić z czegoś, że_",epistemiczny,,,present
+"wpłynąć na coś, że_",przyczynowy,,,past
+"wskazać, że_",wnioskowania,epistemiczny,,present
+"wskazywać [m], że_",mówienia,epistemiczny,,present
+"wspominać, że_",mówienia,pamięciowy,,present
+"wspomnieć, że_",mówienia,pamięciowy,,brak
+"wspomnieć, że_",mówienia,pamięciowy,,past
+"wspomnieć, że_",mówienia,pamięciowy,,past
+"wspomnieć, że_",mówienia,pamięciowy,,past
+"wspomnieć, że_",mówienia,pamięciowy,,present
+"wspomnieć, że_",mówienia,pamięciowy,,brak
+"wybaczyć, że_",emotywny,epistemiczny,,brak
+"wybaczyć, że_",emotywny,epistemiczny,,past
+"wybaczyć, że_",emotywny,epistemiczny,,present
+"wybaczyć, że_",emotywny,epistemiczny,,present
+"wybrzydzać, że_",mówienia,epistemiczny,,present
+"wychodzić z założenia, że_",epistemiczny,,,brak
+"wychodzić z założenia, że_",epistemiczny,,,past
+"wychodzić z założenia, że_",epistemiczny,,,present
+"wychodzić, że_",wnioskowania,epistemiczny,,present
+"wychodzić, że_",wnioskowania,epistemiczny,,present
+"wychodzić, że_",wnioskowania,epistemiczny,,present
+"wychodzić, że_",wnioskowania,epistemiczny,,past
+"wyczytać, że_",percepcyjny,mówienia,,past
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,future
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,brak
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,brak
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,present
+"wydawać się, że_",epistemiczny,,,brak
+"wydawać się, że_",epistemiczny,,,past
+"wydawać się, że_",epistemiczny,,,brak
+"wygląda na to, że_",epistemiczny,,,past
+"wygląda na to, że_",epistemiczny,,,present
+"wygląda na to, że_",epistemiczny,,,present
+"wygląda na to, że_",epistemiczny,,,present
+"wygląda na to, że_",epistemiczny,,,present
+"wyjaśniać, że_",mówienia,,,present
+"wyjaśniać, że_",mówienia,,,present
+"wyjaśnić, że_",mówienia,,,past
+"wyjaśnić, że_",mówienia,,,past
+"wyjaśnić, że_",mówienia,,,past
+"wyjaśnić, że_",mówienia,,,past
+"wyjaśnić, że_",mówienia,,,past
+"wyjaśnić, że_",mówienia,,,brak
+"wyjaśnić, że_",mówienia,,,past
+"wyjaśnić, że_",mówienia,,,brak
+"wyjaśnić, że_",mówienia,,,present
+"wyjaśnić, że_",mówienia,,,present
+"wyjść na jaw, że_",odkrycia,,,past
+"wyjść na jaw, że_",odkrycia,,,past
+"wyjść, że_",wnioskowania,epistemiczny,,past
+"wyjść, że_",zdarzeniowy,,,past
+"wyjść, że_",zdarzeniowy,,,past
+"wyjść, że_",wnioskowania,epistemiczny,,past
+"wyjść, że_",wnioskowania,epistemiczny,,past
+"wyjść, że_",wnioskowania,epistemiczny,,past
+"wykazać, że_",dowodzenia,wnioskowania,mówienia,present
+"wykazać, że_",dowodzenia,wnioskowania,mówienia,past
+"wykazać, że_",dowodzenia,wnioskowania,mówienia,past
+"wykazać, że_",dowodzenia,wnioskowania,mówienia,future
+"wykazywać, że_",dowodzenia,wnioskowania,mówienia,present
+"wykluczać, że_",epistemiczny,,,present
+"wykluczać, że_",epistemiczny,,,present
+"wykluczać, że_",epistemiczny,,,past
+"wyliczyć, że_",liczenia,epistemiczny,,past
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,past
+"wynikać, że_",wnioskowania,epistemiczny,,past
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,past
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,past
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wynikać, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,past
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyniknąć, że_",wnioskowania,epistemiczny,,past
+"wyniknąć, że_",wnioskowania,epistemiczny,,present
+"wyobrazić sobie, że_",epistemiczny,,,brak
+"wyobrazić sobie, że_",epistemiczny,,,brak
+"wyobrazić sobie, że_",epistemiczny,,,brak
+"wyobrazić sobie, że_",epistemiczny,,,brak
+"wyobrazić sobie, że_",epistemiczny,,,present
+"wyobrażać sobie, że_",epistemiczny,,,present
+"wyobrażać sobie, że_",epistemiczny,,,past
+"wyobrażać sobie, że_",epistemiczny,,,past
+"wyobrażać sobie, że_",epistemiczny,,,past
+"wyobrażać sobie, że_",epistemiczny,,,present
+"wyobrażać sobie, że_",epistemiczny,,,present
+"wyobrażać sobie, że_",epistemiczny,,,brak
+"wyobrażać sobie, że_",epistemiczny,,,brak
+"wyobrażać sobie, że_",epistemiczny,,,present
+"wypisywać, że_",mówienia,,,present
+"wypisywać, że_",mówienia,,,present
+"wypominać, że_",mówienia,pamięciowy,,past
+"wystarczyć, że_",zdarzeniowy,,,future
+"wystarczyć, że_",zdarzeniowy,,,past
+"wystarczyć, że_",zdarzeniowy,,,present
+"wytłumaczyć, że_",mówienia,,,past
+"wytykać, że_",mówienia,emotywny,,present
+"wyznać, że_",mówienia,,,past
+"wziąć pod uwagę, że_",epistemiczny,,,future
+"wziąć pod uwagę, że_",epistemiczny,,,past
+"zadeklarować, że_",mówienia,,,past
+"zadeklarować, że_",mówienia,,,past
+"zadeklarować, że_",mówienia,,,past
+"zadeklarować, że_",mówienia,,,past
+"zadeklarować, że_",mówienia,,,past
+"zakładać, że_",epistemiczny,,,brak
+"zakładać, że_",epistemiczny,,,present
+"zakładać, że_",epistemiczny,,,present
+"zakładać, że_",epistemiczny,,,present
+"zakładać, że_",epistemiczny,,,present
+"zakładać, że_",epistemiczny,,,past
+"zakładać, że_",epistemiczny,,,present
+"zakładać, że_",epistemiczny,,,present
+"założyć się, że_",?,,,future
+"założyć, że_",epistemiczny,,,brak
+"założyć, że_",epistemiczny,,,brak
+"założyć, że_",epistemiczny,,,past
+"założyć, że_",epistemiczny,,,brak
+"założyć, że_",epistemiczny,,,brak
+"założyć, że_",epistemiczny,,,brak
+"założyć, że_",epistemiczny,,,brak
+"założyć, że_",epistemiczny,,,present
+"zaobserwować, że_",percepcyjny,epistemiczny,,past
+"zapamiętać, że_",pamięciowy,epistemiczny,,past
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,past
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,past
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,past
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,past
+"zapewniać, że_",mówienia,,,past
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewniać, że_",mówienia,,,present
+"zapewnić, że_",mówienia,,,past
+"zapewnić, że_",mówienia,,,past
+"zapewnić, że_",mówienia,,,past
+"zapewnić, że_",mówienia,,,past
+"zapewnić, że_",mówienia,,,past
+"zapewnić, że_",mówienia,,,past
+"zapewnić, że_",mówienia,,,brak
+"zapewnić, że_",mówienia,,,present
+"zapisać, że_",mówienia,,,past
+"zapisać, że_",mówienia,,,past
+"zaplanować, że_",epistemiczny,,,past
+"zapominać, że_",pamięciowy,epistemiczny,,present
+"zapominać, że_",pamięciowy,epistemiczny,,present
+"zapominać, że_",pamięciowy,epistemiczny,,brak
+"zapominać, że_",pamięciowy,epistemiczny,,brak
+"zapominać, że_",pamięciowy,epistemiczny,,present
+"zapomnieć, że_",pamięciowy,epistemiczny,,past
+"zapomnieć, że_",pamięciowy,epistemiczny,,past
+"zapomnieć, że_",pamięciowy,epistemiczny,,past
+"zapomnieć, że_",pamięciowy,epistemiczny,,brak
+"zapomnieć, że_",pamięciowy,epistemiczny,,past
+"zapomnieć, że_",pamięciowy,epistemiczny,,future
+"zapowiadać się, że_",mówienia,,,past
+"zapowiadać, że_",mówienia,,,present
+"zapowiadać, że_",mówienia,,,present
+"zapowiadać, że_",mówienia,,,present
+"zapowiadać, że_",mówienia,,,present
+"zapowiadać, że_",mówienia,,,present
+"zapowiadać, że_",mówienia,,,past
+"zapowiedzieć, że_",mówienia,,,past
+"zapowiedzieć, że_",mówienia,,,past
+"zapowiedzieć, że_",mówienia,,,past
+"zapowiedzieć, że_",mówienia,,,brak
+"zapowiedzieć, że_",mówienia,,,past
+"zapowiedzieć, że_",mówienia,,,past
+"zaproponować, że_",mówienia,,,past
+"zaproponować, że_",mówienia,,,past
+"zaprzeczyć, że_",mówienia,,,brak
+"zaręczać, że_",mówienia,,,present
+"zarządzić, że_",przyczynowy,epistemiczny,,past
+"zarzekać się, że_",mówienia,,,past
+"zarzekać się, że_",mówienia,,,past
+"zarzucać, że_",mówienia,,,past
+"zarzucać, że_",mówienia,,,past
+"zarzucać, że_",mówienia,,,present
+"zarzucić, że_",mówienia,,,past
+"zarzucić, że_",mówienia,,,past
+"zaskoczyć, że_",emotywny,epistemiczny,,past
+"zastrzec, że_",mówienia,,,brak
+"zastrzec, że_",mówienia,,,past
+"zastrzec, że_",mówienia,,,past
+"zastrzegać, że_",mówienia,,,present
+"zasugerować, że_",mówienia,,,past
+"zasugerować, że_",mówienia,,,past
+"zaświadczać, że_",mówienia,,,past
+"zaświadczać, że_",mówienia,,,past
+"zaświadczać, że_",mówienia,,,past
+"zauważać, że_",epistemiczny,,,present
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,present
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,past
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,brak
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,brak
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,present
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,past
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,brak
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,future
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,brak
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,past
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,present
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,present
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,brak
+"[e] zauważyć, że_",epistemiczny,percepcyjny,,future
+"zawiadamiać, że_",mówienia,,,past
+"zazdrościć czegoś, że_",emotywny,epistemiczny,,present
+"zaznaczać, że_",mówienia,,,present
+"zaznaczać, że_",mówienia,,,present
+"zaznaczyć, że_",mówienia,,,present
+"zaznaczyć, że_",mówienia,,,brak
+"zaznaczyć, że_",mówienia,,,brak
+"zaznaczyć, że_",mówienia,,,brak
+"zaznaczyć, że_",mówienia,,,present
+"zaznaczyć, że_",mówienia,,,present
+"zaznaczyć, że_",mówienia,,,present
+"zdać sobie sprawę, że_",epistemiczny,,,brak
+"zdać sobie sprawę, że_",epistemiczny,,,past
+"zdać sobie sprawę, że_",epistemiczny,,,past
+"zdać sobie sprawę, że_",epistemiczny,,,past
+"zdać sobie sprawę, że_",epistemiczny,,,past
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,past
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,present
+"zdarzać się, że_",zdarzeniowy,,,past
+"zdarzyć się, że_",zdarzeniowy,,,past
+"zdawać się, że_",epistemiczny,,,brak
+"zdawać się, że_",epistemiczny,,,past
+"zdawać się, że_",epistemiczny,,,past
+"zdawać się, że_",epistemiczny,,,present
+"zdawać się, że_",epistemiczny,,,present
+"zdawać się, że_",epistemiczny,,,present
+"zdawać się, że_",epistemiczny,,,present
+"zdawać się, że_",epistemiczny,,,present
+"zdawać się, że_",epistemiczny,,,present
+"zdawać się, że_",epistemiczny,,,present
+"zdawać się, że_",epistemiczny,,,brak
+"zdawać się, że_",epistemiczny,,,brak
+"zdawać się, że_",epistemiczny,,,brak
+"zdawać się, że_",epistemiczny,,,past
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdawać sobie sprawę, że_",epistemiczny,,,past
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdawać sobie sprawę, że_",epistemiczny,,,brak
+"zdawać sobie sprawę, że_",epistemiczny,,,present
+"zdecydować, że_",epistemiczny,czynnościowy,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,past
+"zdecydować, że_",przyczynowy,epistemiczny,,brak
+"zdecydować, że_",przyczynowy,epistemiczny,,future
+"zdziwić się, że_",emotywny,epistemiczny,,past
+"zeznać, że_",mówienia,,,past
+"zeznać, że_",mówienia,,,past
+"zgadzać się, że_",mówienia,,,present
+"zgadzać się, że_",mówienia,,,past
+"zgadzać się, że_",mówienia,,,present
+"zgłaszać, że_",mówienia,,,past
+"[e] zobaczyć, że_",epistemiczny,,,future
+"[e] zobaczyć, że_",epistemiczny,,,future
+"zgodzić się, że_",mówienia,,,brak
+"zobowiązać się, że_",mówienia,,,future
+"zobowiązać się, że_",mówienia,,,past
+"zorientować się, że_",epistemiczny,,,past
+"zorientować się, że_",epistemiczny,,,past
+"zorientować się, że_",epistemiczny,,,brak
+"zreflektować się, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,present
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,present
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,past
+"zrozumieć, że_",epistemiczny,,,brak
+"zrozumieć, że_",epistemiczny,,,brak
+"zrozumieć, że_",epistemiczny,,,brak
+"zrozumieć, że_",epistemiczny,,,present
+"zwalić, że_",mówienia,,,past
+"zważyć, że_",epistemiczny,,,past
+"zważyć, że_",epistemiczny,,,brak
+"zwąchać, że_",epistemiczny,percepcyjny,,past
+"zwąchać, że_",epistemiczny,,,past
+"zwracać komuś uwagę, że_",mówienia,epistemiczny,,present
+"zwrócić uwagę, że_",mówienia,epistemiczny,,brak
+"zwrócić uwagę, że_",mówienia,epistemiczny,,past
+"zwrócić uwagę, że_",mówienia,epistemiczny,,present
+"żalić się, że_",emotywny,mówienia,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żałować, że_",emotywny,epistemiczny,,present
+"żartować, że_",mówienia,emotywny,epistemiczny,present
+"[m] zauważyć, że_",mówienia,epistemiczny,,past
+"[m] zauważyć, że_",mówienia,percepcyjny,,past
+"[p] zobaczyć, że_",percepcyjny,,,past
+"[p] zobaczyć, że_",percepcyjny,,,past
+"[p] zobaczyć, że_",percepcyjny,,,past
+"[p] zobaczyć, że_",percepcyjny,,,brak
+"dowiadywać się, że_",epistemiczny,,,present
+"dowiadywać się, że_",epistemiczny,,,present
+"dowiadywać się, że_",epistemiczny,,,present
+"dowiadywać się, że_",epistemiczny,,,past
+"dowiadywać się, że_",epistemiczny,,,present
+"dowiadywać się, że_",epistemiczny,,,present
+"[e] poczuć, że_",epistemiczny,,,past
+"[e] poczuć, że_",epistemiczny,,,past
+"[e] poczuć, że_",epistemiczny,,,past
+"przekonywać o czymś, że_",mówienia,epistemiczny,,present
+"przekonywać o czymś, że_",mówienia,epistemiczny,,present
+"przekonywać o czymś, że_",mówienia,epistemiczny,,present
+"przekonywać o czymś, że_",mówienia,epistemiczny,,past
+"przekonywać o czymś, że_",mówienia,epistemiczny,,present
+"przekonywać o czymś, że_",mówienia,epistemiczny,,present
+"przekonywać o czymś, że_",mówienia,epistemiczny,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,past
+"przypominać komuś, że_",mówienia,pamięciowy,,past
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,present
+"przypominać komuś, że_",mówienia,pamięciowy,,brak
+"ustalić na podstawie czegoś, że_",przyczynowy,wnioskowania,,brak
+"uświadamiać komuś, że_",mówienia,epistemiczny,,present
+"uświadomić komuś, że_",mówienia,epistemiczny,,brak
+"uświadomić komuś, że_",mówienia,epistemiczny,,brak
+"uświadomić komuś, że_",mówienia,epistemiczny,,present
+"uświadomić komuś, że_",mówienia,epistemiczny,,present
+"uświadomić komuś, że_",mówienia,epistemiczny,,present
+"uświadomić komuś, że_",przyczynowy,epistemiczny,,past
+"[e] widać, że",epistemiczny,percepcyjny,,brak
+"[e] widać, że",epistemiczny,percepcyjny,,brak
+"[e] widać, że",epistemiczny,percepcyjny,,brak
+"[e] widać, że",epistemiczny,percepcyjny,,brak
+"[e] widać, że",epistemiczny,percepcyjny,,brak
+"[e] widać, że",epistemiczny,,,present
+"[e] widać, że",epistemiczny,,,brak
+"[e] widać, że",epistemiczny,,,brak
+"[e] widać, że",epistemiczny,,,brak
+"[e] widać, że",epistemiczny,,,brak
+"[e] widać, że",epistemiczny,,,brak
+"[e] widać, że",epistemiczny,,,brak
+"[e] widać, że",epistemiczny,,,brak
+"[e] widać, że",epistemiczny,,,brak
+"[e] widać, że",epistemiczny,,,brak
+"[p] zauważyć, że_",percepcyjny,,,past
+"[p] zauważyć, że_",percepcyjny,,,past
+"[p] zauważyć, że_",percepcyjny,,,past
+"[p] zauważyć, że_",percepcyjny,,,past
+"[p] zauważyć, że_",percepcyjny,,,past
+"[e] widzieć, że_",epistemiczny,percepcyjny,,present
+"[e] widzieć, że_",epistemiczny,percepcyjny,,present
+"[e] widzieć, że_",epistemiczny,percepcyjny,,present
+"[e] widzieć, że_",epistemiczny,percepcyjny,,present
+"[e] widzieć, że_",epistemiczny,percepcyjny,,brak
+"[e] widzieć, że_",epistemiczny,,,past
+"[e] widzieć, że_",epistemiczny,,,past
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,present
+"[e] widzieć, że_",epistemiczny,,,past
+"[e] widzieć, że_",epistemiczny,percepcyjny,,present
+"[p] widać, że_",percepcyjny,epistemiczny,,brak
+"[p] widać, że_",percepcyjny,epistemiczny,,brak
+"[p] widać, że_",percepcyjny,epistemiczny,,past
+"[p] widać, że_",percepcyjny,epistemiczny,,past
+"[p] widać, że_",percepcyjny,epistemiczny,,brak
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"ustalić [na podstawie czego], że_",wnioskowania,epistemiczny,,past
+"[e] zobaczyć, że_",epistemiczny,,,future
+"[e] zobaczyć, że_",epistemiczny,,,future
+"[e] zobaczyć, że_",epistemiczny,,,future
