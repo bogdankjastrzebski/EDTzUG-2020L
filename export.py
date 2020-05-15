@@ -8,16 +8,3 @@ outputData = allData[['verb - veridical (positive enviroment)', 'verb - veridica
 
 inputData.to_csv(path_or_buf = "input.csv", index=False)
 outputData.to_csv(path_or_buf = "output.csv", index=False)
-
-param_grid_mlp = {
-    'activation' : ['identity', 'logistic', 'tanh', 'relu'],
-    'solver' : ['lbfgs', 'sgd', 'adam'],
-    'alpha' : [0.0001, 0.0005, 0.00001, 0.001],
-    'learning_rate' : ['constant', 'invscaling', 'adaptive']
-}
-
-param_grid_randomForest = {
-    'n_estimators' : range(100, 1000, 10),
-    'criterion' : ['gini', 'entropy'],
-    'max_features' : ['auto', 'sqrt', 'log2']
-}
